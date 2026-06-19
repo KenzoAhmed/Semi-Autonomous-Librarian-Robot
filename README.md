@@ -15,6 +15,9 @@ After reaching the correct shelf location, the lifting mechanism lowers the grip
 
 The current implementation supports three different book return locations and also provides a manual control mode for testing and maintenance.
 
+You can find the link to the project's documentation including the presentation and report in the link below
+https://drive.google.com/drive/folders/1cjjCQa88gz7FWarNAzEconStk-9rCgf7?usp=sharing
+
 ---
 
 ## Features
